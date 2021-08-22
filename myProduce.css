@@ -1,0 +1,18 @@
+input[type=submit]{
+    background-color: green;  
+}
+main{
+    padding: 50px;
+}
+section{
+    padding: 15px;
+}
+#sheds, #proj, #mon_proj{
+    margin: 5px 10px 5px 100px;
+}
+h4,h5{
+    font-weight: 700;
+}
+input[type=text]{
+    color: black;
+}
