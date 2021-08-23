@@ -52,16 +52,16 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
            <p>The total Production is: <span id="shT"> </span> </p>
        </section>
        <h4>Weekly and Yearly Production Projection: </h4>
-       <form action="" id="Projection">
+       <form  onsubmit="incomeProjection(event)">
         <label for="buying">Buying Rate: </label>
         <input type="text" id="bR"  ><br><br>
         <input type="submit" value="Generate Report" id="proj">
-        <input type="submit" value="Reset">     
+        <input type="reset" value="Reset">     
     </form>
     <h5>Produce Summary:</h5>
     <section class="display">
-        <p>Weekly Production is:</p>
-        <p>Yearly Production is:</p>
+        <p>Weekly Production is: <span id="wk"></span></p>
+        <p>Yearly Production is: <span id="yr"></span></p>
     </section>     
     <h4>Monthly Production Projection:</h4>
     <form action="" id="Projection">
@@ -121,8 +121,7 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
     <script src="dairy.js" type="text/javascript"></script>
 
     <!-- JavaScript Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" 
-integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
 </body>
 <footer>
     <div class="foot_cont">
