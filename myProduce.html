@@ -30,25 +30,26 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
     </header>
    <main>
        <h4>Dairy Daily Production:</h4>
-       <form >
+       <form onsubmit="milkProduc(event)">
            <label for="shedA">SHED A: </label>
-           <input type="text" id="sa " name="sa" placeholder="Enter produce for shed A" required ><br><br>
+           <input type="text" id="sa" name="sa" placeholder="Enter produce for shed A" required ><br><br>
            <label for="shedB">SHED B: </label>
-            <input type="text" id="sb" name="sb"><br><br>
+            <input type="text" id="sb" name="sb" placeholder="Enter produce for shed B" required><br><br>
             <label for="shedC">SHED C: </label>
-           <input type="text" id="sc" name="sc" ><br><br>
+           <input type="text" id="sc" name="sc" placeholder="Enter produce for shed C" required><br><br>
            <label for="shedD">SHED D: </label>
-           <input type="text" id="sd" name="sd"><br><br>
-           <input type="submit" value="Generate Report" onclick="milkProduc(event)" >
-          
+           <input type="text" id="sd" name="sd" placeholder="Enter produce for shed D" required><br><br>
+           <input type="submit" value="Generate Report" id="sheds">
+           <input type="reset" value="Reset" onclick="shClear()">   
+           
        </form>
        <section class="display">
            <h5>Produce Summary:</h5>
-           <p>Total Production for shed A is:<span id="shA"> </span></p>
-           <p>Total Production for shed B is:</p>
-           <p>Total Producion for shed C is:</p>
-           <p>Total Production for shed D is:</p>
-           <p>The total Production is:</p>
+           <p>Total Production for shed A is: <span id="shA"> </span> </p>
+           <p>Total Production for shed B is: <span id="shB"> </span> </p>
+           <p>Total Producion for shed C is: <span id="shC"> </span> </p>
+           <p>Total Production for shed D is: <span id="shD"> </span> </p>
+           <p>The total Production is: <span id="shT"> </span> </p>
        </section>
        <h4>Weekly and Yearly Production Projection: </h4>
        <form action="" id="Projection">
@@ -84,8 +85,6 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
         <p>Your income for November is:</p>
         <p>Your income for December is:</p>
     </section>
-    
-    </form>
    </main>
 <!--  <footer class="fixed-bottom ">
         <div class="foot_cont">
