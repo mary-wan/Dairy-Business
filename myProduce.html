@@ -30,21 +30,21 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
     </header>
    <main>
        <h4>Dairy Daily Production:</h4>
-       <form action="" id="ProdMilk">
+       <form >
            <label for="shedA">SHED A: </label>
-           <input type="text" id="sA " ><br><br>
+           <input type="text" id="sa " name="sa" placeholder="Enter produce for shed A" required ><br><br>
            <label for="shedB">SHED B: </label>
-            <input type="text" id="sB" ><br><br>
+            <input type="text" id="sb" name="sb"><br><br>
             <label for="shedC">SHED C: </label>
-           <input type="text" id="sC" ><br><br>
+           <input type="text" id="sc" name="sc" ><br><br>
            <label for="shedD">SHED D: </label>
-           <input type="text" id="sD"><br><br>
-           <input type="submit" value="Generate Report" id="sheds">
-           <input type="submit" value="Reset">
+           <input type="text" id="sd" name="sd"><br><br>
+           <input type="submit" value="Generate Report" onclick="milkProduc(event)" >
+          
        </form>
        <section class="display">
            <h5>Produce Summary:</h5>
-           <p>Total Production for shed A is:</p>
+           <p>Total Production for shed A is:<span id="shA"> </span></p>
            <p>Total Production for shed B is:</p>
            <p>Total Producion for shed C is:</p>
            <p>Total Production for shed D is:</p>
@@ -71,7 +71,7 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
     </form>
     <h5>Produce Summary:</h5>
     <section class="display">
-        <p>Your income for January is:</p>
+        <p>Your income for January is:<span> </span></p>
         <p>Your income for February is: </p>
         <p>Your income for March is:</p>
         <p>Your income for April is:</p>
@@ -84,6 +84,8 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
         <p>Your income for November is:</p>
         <p>Your income for December is:</p>
     </section>
+    
+    </form>
    </main>
 <!--  <footer class="fixed-bottom ">
         <div class="foot_cont">
