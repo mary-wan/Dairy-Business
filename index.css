@@ -15,6 +15,7 @@ nav{
     display: flex;
     padding: 3em;
     background-color: #4d4d4d;
+    
 }
 .navbar-brand{
     font-family: 'Aladin', cursive;
