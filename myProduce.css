@@ -1,10 +1,7 @@
 input[type=submit]{
     background-color: green;  
 }
-main{
-    padding: 50px;
-    margin-top: 20px;
-}
+
 section{
     padding: 15px;
 }
