@@ -28,7 +28,7 @@ function incomeProjection(e){
     let weekly = rate * 7 * shedTotal;
     let yearly = rate * 12 * shedTotal
     document.getElementById("wk").innerHTML= weekly + " litres";
-    document.getElementById("yr").innerHTML= weekly + " litres";
+    document.getElementById("yr").innerHTML= yearly + " litres";
 }
 
 
