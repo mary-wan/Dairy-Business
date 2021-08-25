@@ -10,7 +10,7 @@
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 ## Description
-<p>This is  a website application to automate the process of getting reports about my farm by generating the daily milk production, weekly, monthly and yearly income projections.</p>
+This is  a website application to automate the process of getting reports about my farm by generating the daily milk production, weekly, monthly and yearly income projections.
 ## Installation
 ### Requirements
 * A computer,phone,tablet or an Ipad
@@ -51,5 +51,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#Dairy-Business)
 ## Authors Info
-Email: mary.njenga@student.moringaschool.com
+Email: mary.njenga@student.moringaschool.com /
 [Go Back to the top](#Dairy-Business)
