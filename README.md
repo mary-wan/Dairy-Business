@@ -26,7 +26,7 @@ This is  a website application to automate the process of getting reports about 
 * HTML - which was used to build the structure of the pages.
 * CSS - which was used to style the pages 
 * JS - for interactivity
-
+****
 [Go Back to the top](#Dairy-Business)
 ## Licence
 MIT License
@@ -50,7 +50,7 @@ SOFTWARE.
 ****
 [Go Back to the top](#Dairy-Business)
 ## Authors Info
-Slack Profile - [Mary Njenga](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/U027VKL1WLT?cdn_fallback=1)
-Email - [Mary Njenga](mary.njenga@student.moringaschool.com/)
+* Slack Profile - [Mary Njenga](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/U027VKL1WLT?cdn_fallback=1)
+* Email - [Mary Njenga](mary.njenga@student.moringaschool.com/)
 
 [Go Back to the top](#Dairy-Business)
