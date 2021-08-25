@@ -30,3 +30,6 @@ function incomeProjection(e){
     document.getElementById("wk").innerHTML= weekly + " litres";
     document.getElementById("yr").innerHTML= yearly + " litres";
 }
+function myFeedback(){
+    alert("Thank you for your feedback.")
+}
