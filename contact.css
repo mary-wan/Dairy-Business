@@ -58,3 +58,6 @@ footer {
 #usernameInput,#emailInput,#fdback {
     color: black;
 }
+textarea{
+    margin-left: 40px;
+}

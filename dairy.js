@@ -31,5 +31,11 @@ function incomeProjection(e){
     document.getElementById("yr").innerHTML= yearly + " litres";
 }
 function myFeedback(){
+    var nam = document.getElementById("usernameInput").value;
+    var email = document.getElementById("emailInput").value;
+    var feedbk =document.getElementById("fdback").value;
+    if(nam =null || nam== "" ,email =null || email== "", feedbk =null || feedbk== ""){
+        alert("Please fill in all the fields")
+    }else
     alert("Thank you for your feedback.")
 }
