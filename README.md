@@ -51,5 +51,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#Dairy-Business)
 ## Authors Info
-Email: mary.njenga@student.moringaschool.com /
-[Go Back to the top](#Dairy-Business)
+Slack Profile - [Mary Njenga](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/U027VKL1WLT?cdn_fallback=1)
+Email - [Mary Njenga](mary.njenga@student.moringaschool.com)
+
+[Go Back to the top](#Dairy-Business))
