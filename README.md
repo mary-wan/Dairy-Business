@@ -5,12 +5,16 @@
 ## Table of Content
 + [Description](#description)
 + [Installation Requirement](#Installation)
++ [Design](#design)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 ## Description
 This is  a website application to automate the process of getting reports about my farm by generating the daily milk production, weekly, monthly and yearly income projections.
+## Design
+[Design](https://www.figma.com/file/ha1aMvhrP9YPkut1NvZCFz/PrideFarm?node-id=0%3A1)
+**
 ## Installation
 ### Requirements
 * A computer,phone,tablet or an Ipad
