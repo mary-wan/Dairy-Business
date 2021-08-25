@@ -19,10 +19,7 @@ This is  a website application to automate the process of getting reports about 
 * Lauch terminal
 * To install Git, run the following command: sudo apt-get install git-all
 * Run the command 'git clone 'https://github.com/mary-wan/Dairy-Business.git' to clone the repository to your local computer.
-
-
-Click on the link provided bellow to view the site.
-https://mary-wan.github.io/dairy-business/
+* Click on the link to view the site.https://mary-wan.github.io/dairy-business/
 ****
 [Go Back to the top](#Dairy-Business)
 ## Technology Used
@@ -49,9 +46,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+****
 [Go Back to the top](#Dairy-Business)
 ## Authors Info
 Slack Profile - [Mary Njenga](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/U027VKL1WLT?cdn_fallback=1)
-Email - [Mary Njenga](mary.njenga@student.moringaschool.com)
+Email - [Mary Njenga](mary.njenga@student.moringaschool.com/)
 
-[Go Back to the top](#Dairy-Business))
+[Go Back to the top](#Dairy-Business)
