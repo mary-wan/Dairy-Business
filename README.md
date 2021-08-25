@@ -18,7 +18,7 @@ This is  a website application to automate the process of getting reports about 
 ### Installation Process
 * Lauch terminal
 * To install Git, run the following command: sudo apt-get install git-all
-* Run the command 'git clone 'https://github.com/mary-wan/Dairy-Business.git' to clone the repository to your local computer.
+* Run the command 'git clone https://github.com/mary-wan/Dairy-Business.git' to clone the repository to your local computer.
 * Click on the link to view the site.https://mary-wan.github.io/dairy-business/
 ****
 [Go Back to the top](#Dairy-Business)
